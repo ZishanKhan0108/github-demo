@@ -1,3 +1,4 @@
 # github-demo
-this is my first git repository
-author -Zishan Khan
+this is my first git repository.
+<br>
+Author -Zishan Khan
